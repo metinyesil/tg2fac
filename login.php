@@ -8,7 +8,7 @@ ini_set("display_errors", 1);
 session_start();
 
 // Telegram Bot Token - Bot Token almak için, Telegramdan @botfather'dan bot oluşturun.
-$botToken = "6577842538:AAG6NVszq2ZcK5kN6PS3GETnlMcpiIzrvgQ";
+$botToken = "BOT_TOKEN";
 
 $type = $_POST["type"];
 
